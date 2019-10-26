@@ -105,15 +105,15 @@
 
     <dependencies>
         <!-- Leaf6 核心 -->
-        <dependency>
-            <groupId>org.mohrss.leaf.core</groupId>
-            <artifactId>leaf6-core</artifactId>
-        </dependency>
-        <!-- Leaf6 阿里版扩展 -->
-        <dependency>
-            <groupId>org.mohrss.leaf.core</groupId>
-            <artifactId>leaf6-ali-ext</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.mohrss.leaf.core</groupId>-->
+            <!--<artifactId>leaf6-core</artifactId>-->
+        <!--</dependency>-->
+        <!--&lt;!&ndash; Leaf6 阿里版扩展 &ndash;&gt;-->
+        <!--<dependency>-->
+            <!--<groupId>org.mohrss.leaf.core</groupId>-->
+            <!--<artifactId>leaf6-ali-ext</artifactId>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>hsf.schema</artifactId>
